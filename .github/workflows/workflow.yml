@@ -19,7 +19,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3.0.1
         with:
-          path: 'book'      # upload generated folder
+          path: 'buku'      # upload generated folder
   
   deploy:
     needs: pages-directory-listing
