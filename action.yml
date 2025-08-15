@@ -8,7 +8,7 @@ branding:
   icon: 'upload-cloud'
 
 inputs:
-  FOLDER:
+  FOLDER: 'buku'
     description: 'folder to start index generations'
     required: true
 runs:
